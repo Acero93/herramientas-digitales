@@ -82,5 +82,19 @@
     "url": "https://www.docker.com",
     "categoria": "Desarrollo",
     "descripcion": "Plataforma de contenedorización que permite empaquetar aplicaciones con todas sus dependencias para ejecutarlas en cualquier entorno."
+  },
+  {
+    "id": 13,
+    "nombre": "Tabler Icons",
+    "url": "https://tabler.io/icons",
+    "categoria": "Diseño",
+    "descripcion": "Colección gratuita y de código abierto de más de 6,000 iconos SVG diseñados para ser consistentes, legibles y adaptables a cualquier proyecto de interfaz de usuario."
+  },
+  {
+    "id": 14,
+    "nombre": "Stitch by Google",
+    "url": "https://stitch.withgoogle.com/",
+    "categoria": "IA",
+    "descripcion": "Herramienta de inteligencia artificial de Google que permite integrar modelos de lenguaje avanzados en aplicaciones, facilitando la creación de experiencias conversacionales y generativas."
   }
 ]
