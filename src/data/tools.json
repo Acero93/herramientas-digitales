@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombre": "Figma",
+    "url": "https://www.figma.com",
+    "categoria": "Diseño",
+    "descripcion": "Herramienta colaborativa de diseño de interfaces y prototipos en tiempo real. Ideal para equipos de diseño que necesitan trabajar juntos de forma remota."
+  },
+  {
+    "id": 2,
+    "nombre": "VS Code",
+    "url": "https://code.visualstudio.com",
+    "categoria": "Desarrollo",
+    "descripcion": "Editor de código fuente desarrollado por Microsoft. Ligero, potente y con una amplia biblioteca de extensiones para cualquier lenguaje de programación."
+  },
+  {
+    "id": 3,
+    "nombre": "Notion",
+    "url": "https://www.notion.so",
+    "categoria": "Productividad",
+    "descripcion": "Espacio de trabajo todo en uno para notas, documentos, bases de datos y gestión de proyectos. Perfecto para organizar información personal y de equipo."
+  },
+  {
+    "id": 4,
+    "nombre": "GitHub",
+    "url": "https://github.com",
+    "categoria": "Desarrollo",
+    "descripcion": "Plataforma de alojamiento de código para control de versiones y colaboración. Permite que múltiples desarrolladores trabajen juntos en proyectos de cualquier escala."
+  },
+  {
+    "id": 5,
+    "nombre": "Slack",
+    "url": "https://slack.com",
+    "categoria": "Comunicación",
+    "descripcion": "Plataforma de mensajería para equipos que centraliza las comunicaciones, integraciones y archivos en un solo lugar organizado por canales."
+  },
+  {
+    "id": 6,
+    "nombre": "Trello",
+    "url": "https://trello.com",
+    "categoria": "Productividad",
+    "descripcion": "Herramienta de gestión de proyectos basada en tableros Kanban. Visual, intuitiva y perfecta para organizar tareas y flujos de trabajo."
+  },
+  {
+    "id": 7,
+    "nombre": "Canva",
+    "url": "https://www.canva.com",
+    "categoria": "Diseño",
+    "descripcion": "Plataforma de diseño gráfico simplificada con miles de plantillas. Ideal para crear contenido visual sin necesidad de experiencia en diseño profesional."
+  },
+  {
+    "id": 8,
+    "nombre": "Postman",
+    "url": "https://www.postman.com",
+    "categoria": "Desarrollo",
+    "descripcion": "Plataforma colaborativa para desarrollo de APIs. Permite probar, documentar y compartir APIs de manera eficiente con tu equipo."
+  },
+  {
+    "id": 9,
+    "nombre": "Zoom",
+    "url": "https://zoom.us",
+    "categoria": "Comunicación",
+    "descripcion": "Software de videoconferencia líder en la industria. Ofrece reuniones de alta calidad, webinars y colaboración en tiempo real."
+  },
+  {
+    "id": 10,
+    "nombre": "Linear",
+    "url": "https://linear.app",
+    "categoria": "Productividad",
+    "descripcion": "Sistema de seguimiento de issues diseñado para equipos de desarrollo modernos. Rápido, elegante y enfocado en la velocidad del equipo."
+  },
+  {
+    "id": 11,
+    "nombre": "Adobe XD",
+    "url": "https://www.adobe.com/products/xd.html",
+    "categoria": "Diseño",
+    "descripcion": "Herramienta de diseño UX/UI de Adobe para crear prototipos interactivos de aplicaciones web y móviles con animaciones avanzadas."
+  },
+  {
+    "id": 12,
+    "nombre": "Docker",
+    "url": "https://www.docker.com",
+    "categoria": "Desarrollo",
+    "descripcion": "Plataforma de contenedorización que permite empaquetar aplicaciones con todas sus dependencias para ejecutarlas en cualquier entorno."
+  }
+]
