@@ -72,13 +72,6 @@ export function ToolDetail({ tool }: ToolDetailProps) {
             </a>
           </div>
         </div>
-
-        <div className="mt-6 p-4 bg-blue-50 border border-blue-100 rounded-lg">
-          <p className="text-sm text-blue-800">
-            <strong>Nota:</strong> Esta información se obtiene del archivo <code className="px-1 py-0.5 bg-blue-100 rounded">src/data/tools.json</code>.
-            Puedes modificarlo para agregar o editar herramientas.
-          </p>
-        </div>
       </div>
     </div>
   );
