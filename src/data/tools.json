@@ -180,5 +180,54 @@
     "url": "https://firebase.studio/",
     "categoria": "Desarrollo",
     "descripcion": "Entorno de desarrollo en la nube de Google que acelera todo el ciclo de vida de la aplicación con agentes de IA, permitiendo construir backends, frontends y apps móviles en un solo lugar, con integración nativa de Gemini."
-  }
+  },
+  {
+  "id": 27,
+  "nombre": "Rocket",
+  "url": "https://rocket.new/",
+  "categoria": "Desarrollo",
+  "descripcion": "Herramienta impulsada por IA para crear aplicaciones web funcionales en segundos a partir de una descripción en lenguaje natural, ideal para prototipado rápido y desarrollo ágil."
+},
+{
+  "id": 28,
+  "nombre": "Visiwig",
+  "url": "https://www.visiwig.com/",
+  "categoria": "Diseño",
+  "descripcion": "Generador visual de paletas de colores con soporte para sistemas de diseño como Tailwind CSS, permitiendo crear escalas tonales coherentes y exportarlas en múltiples formatos."
+},
+{
+  "id": 29,
+  "nombre": "Driver.js",
+  "url": "https://driverjs.com/",
+  "categoria": "Desarrollo",
+  "descripcion": "Biblioteca ligera de JavaScript de código abierto para crear recorridos guiados, resaltar elementos y ofrecer ayuda contextual en aplicaciones web, mejorando la experiencia de usuario y la adopción de funcionalidades."
+},
+{
+  "id": 30,
+  "nombre": "AetherCSS",
+  "url": "https://aethercss.lovable.app/",
+  "categoria": "Diseño",
+  "descripcion": "Framework CSS minimalista y elegante diseñado para construir interfaces modernas con un enfoque en la simplicidad, accesibilidad y rendimiento, ideal para prototipos y proyectos ligeros."
+},
+{
+  "id": 31,
+  "nombre": "CrawlerCheck",
+  "url": "https://crawlercheck.com/",
+  "categoria": "Desarrollo",
+  "descripcion": "Herramienta en línea que simula cómo los motores de búsqueda y otros crawlers ven tu sitio web, ayudando a diagnosticar problemas de indexación, renderizado y accesibilidad para bots."
+},
+{
+  "id": 32,
+  "nombre": "Kigen Color",
+  "url": "https://kigen.design/color",
+  "categoria": "Diseño",
+  "descripcion": "Generador avanzado de paletas de colores con algoritmos perceptuales, soporte para Tailwind CSS, Figma y múltiples formatos de salida (HEX, RGBA, HSL, OKLCH), ideal para sistemas de diseño profesionales."
+},
+{
+  "id": 33,
+  "nombre": "DrawDB",
+  "url": "https://www.drawdb.app/",
+  "categoria": "Diseño",
+  "descripcion": "Editor visual gratuito y de código abierto para diseñar diagramas de bases de datos (ERD), con soporte para exportación a SQL, colaboración en tiempo real y generación de esquemas desde cero."
+}
 ]
