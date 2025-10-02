@@ -96,5 +96,61 @@
     "url": "https://stitch.withgoogle.com/",
     "categoria": "IA",
     "descripcion": "Herramienta de inteligencia artificial de Google que permite integrar modelos de lenguaje avanzados en aplicaciones, facilitando la creación de experiencias conversacionales y generativas."
+  },
+  {
+    "id": 15,
+    "nombre": "Excalidraw",
+    "url": "https://excalidraw.com/",
+    "categoria": "Diseño",
+    "descripcion": "Herramienta de dibujo colaborativa y de código abierto con estilo de boceto a mano alzada, ideal para diagramas, wireframes y notas visuales en tiempo real."
+  },
+  {
+    "id": 16,
+    "nombre": "draw.io (Diagrams.net)",
+    "url": "https://www.draw.io/",
+    "categoria": "Diseño",
+    "descripcion": "Editor gratuito y de código abierto para crear diagramas de flujo, mapas mentales, arquitecturas de software y más, con integración en Google Drive, Confluence y otras plataformas."
+  },
+  {
+    "id": 17,
+    "nombre": "Mermaid.js",
+    "url": "https://mermaid.js.org/",
+    "categoria": "Desarrollo",
+    "descripcion": "Biblioteca JavaScript que permite generar diagramas y flujos a partir de texto simple, ideal para documentación técnica en Markdown, wikis o sitios estáticos."
+  },
+  {
+    "id": 18,
+    "nombre": "DeepSeek",
+    "url": "https://deepseek.com/",
+    "categoria": "IA",
+    "descripcion": "Modelo de lenguaje de gran tamaño desarrollado por DeepSeek AI, optimizado para razonamiento complejo, programación y tareas multilingües."
+  },
+  {
+    "id": 19,
+    "nombre": "Qwen",
+    "url": "https://qwen.ai/",
+    "categoria": "IA",
+    "descripcion": "Serie de modelos de lenguaje de gran tamaño creados por Alibaba Cloud, diseñados para comprensión, generación y razonamiento avanzado en múltiples idiomas y dominios."
+  },
+  {
+    "id": 20,
+    "nombre": "Gemini",
+    "url": "https://gemini.google.com/",
+    "categoria": "IA",
+    "descripcion": "Asistente de inteligencia artificial de Google basado en la familia de modelos Gemini, capaz de ayudar con tareas creativas, técnicas, análisis de datos y más."
+  },
+  {
+    "id": 21,
+    "nombre": "Manus AI",
+    "url": "https://manus.ai/",
+    "categoria": "IA",
+    "descripcion": "Plataforma de inteligencia artificial centrada en automatizar flujos de trabajo empresariales mediante agentes autónomos que pueden planificar, ejecutar y aprender de tareas complejas."
+  },
+  {
+    "id": 22,
+    "nombre": "Bolt",
+    "url": "https://bolt.new/",
+    "categoria": "Desarrollo",
+    "descripcion": "Herramienta de desarrollo rápido impulsada por IA que permite crear aplicaciones web funcionales en segundos a partir de descripciones en lenguaje natural."
   }
 ]
