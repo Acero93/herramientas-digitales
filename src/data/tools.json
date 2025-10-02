@@ -152,5 +152,33 @@
     "url": "https://bolt.new/",
     "categoria": "Desarrollo",
     "descripcion": "Herramienta de desarrollo rápido impulsada por IA que permite crear aplicaciones web funcionales en segundos a partir de descripciones en lenguaje natural."
+  },
+  {
+    "id": 23,
+    "nombre": "NotebookLM",
+    "url": "https://notebooklm.google/",
+    "categoria": "IA",
+    "descripcion": "Herramienta de inteligencia artificial de Google que transforma tus documentos y notas en un cuaderno interactivo, permitiéndote hacer preguntas, generar resúmenes y explorar ideas con asistencia de IA."
+  },
+  {
+    "id": 24,
+    "nombre": "Claude",
+    "url": "https://claude.ai/new",
+    "categoria": "IA",
+    "descripcion": "Asistente de inteligencia artificial avanzado desarrollado por Anthropic, diseñado para razonamiento complejo, análisis de documentos, generación de texto y programación, con énfasis en seguridad y alineación ética."
+  },
+  {
+    "id": 25,
+    "nombre": "v0 by Vercel",
+    "url": "https://v0.app/",
+    "categoria": "Desarrollo",
+    "descripcion": "Generador de interfaces de usuario impulsado por IA que permite crear componentes React funcionales a partir de descripciones en lenguaje natural, integrado con el ecosistema de Vercel y Next.js."
+  },
+  {
+    "id": 26,
+    "nombre": "Firebase Studio",
+    "url": "https://firebase.studio/",
+    "categoria": "Desarrollo",
+    "descripcion": "Entorno de desarrollo en la nube de Google que acelera todo el ciclo de vida de la aplicación con agentes de IA, permitiendo construir backends, frontends y apps móviles en un solo lugar, con integración nativa de Gemini."
   }
 ]
